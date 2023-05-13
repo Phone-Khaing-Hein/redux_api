@@ -70,7 +70,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd your-folder
-  git clone git@github.com:sawmon71293/API-Redux.git
+  git clone https://github.com/Rimuru-Tempest-26/redux_api.git
 ```
 
 ### Install
@@ -103,11 +103,10 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Saw Mon Han**
+👤 **Phone Khaing Hein**
 
-- GitHub: [@sawmon](https://github.com/sawmon71293/)
-- Twitter: [@Twitterhandle](https://twitter.com/sawmon34268255)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/saw-mon-han/)
+- GitHub: [@Rimuru-Tempest-26](https://github.com/Rimuru-Tempest-26)
+- LinkedIn: [Phone Khaing Hein](https://www.linkedin.com/in/phone-khaing-hein-759497216/)
 
 
 ## 🔭 Future Features <a name="features"></a>
